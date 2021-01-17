@@ -1,0 +1,84 @@
+/*selector{
+	property: value;
+	anotherProperty: value;
+}
+
+body{
+	text-align: center;
+}
+ul{
+	color: #AA00FF;
+}
+li{ font-weight: 800; }
+
+h1{	
+	font-weight: 800;
+	border: 3px dotted black;
+}
+h2{	border: 6px dotted blue;}
+
+
+*/
+
+
+/*Website name--> put in all pages of the website*/
+h1 {
+  color: #4E92DF;
+  font-size: 55px;
+}
+.brandName a{
+	float: left;
+	margin: 0 32px 0 0;
+}
+
+/*Links*/
+/*Aligning top navigation to the right*/
+.topnav a{
+	float: right;
+	margin: 0 0 0 32px;
+}
+
+a{
+	color: #037abd;
+	text-decoration: none;
+	transition: color 0.3s;
+}
+a:hover{
+	color: #F4bcbb;
+}
+
+.orgLinks a{
+	text-align:center;
+}
+
+
+h2 { 
+	font-family: Consolas, monaco, monospace; 
+	font-size: 45px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 25px; 
+	color: dimgray;
+	text-align:center;
+	/*background-color: darkblue;*/
+} 
+
+/*Contact*/
+.contactInfo body{
+	text-align: center;
+}
+
+/*body*/
+body{
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 25px; 
+	/*background-color: #79e6f5;*/
+	background-color: #ffffff;
+	/*text-align: center;*/
+
+}
+
+
+
